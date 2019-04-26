@@ -1,0 +1,71 @@
+<Mlist>
+<M id="M0" sign="test.T.main(java.lang.String[])" file="test/T.java" line="0">
+
+</M>
+<M id="M1" sign="java.lang.Thread.start()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M2" sign="java.lang.Object.&lt;clinit&gt;()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M3" sign="java.lang.Object.&lt;init&gt;()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M4" sign="java.lang.Object.registerNatives()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M5" sign="java.lang.Runnable.run()" file="java/lang/Runnable.java" line="0">
+
+</M>
+<M id="M6" sign="java.lang.RuntimePermission.&lt;init&gt;(java.lang.String)" file="java/lang/RuntimePermission.java" line="0">
+
+</M>
+<M id="M7" sign="java.lang.Thread.&lt;clinit&gt;()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M8" sign="java.lang.Thread.&lt;init&gt;()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M9" sign="java.lang.Thread.registerNatives()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M10" sign="java.lang.Thread.run()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M11" sign="java.security.BasicPermission.&lt;init&gt;(java.lang.String)" file="java/security/BasicPermission.java" line="0">
+
+</M>
+<M id="M12" sign="java.security.BasicPermission.init(java.lang.String)" file="java/security/BasicPermission.java" line="0">
+
+</M>
+<M id="M13" sign="java.security.Permission.&lt;init&gt;(java.lang.String)" file="java/security/Permission.java" line="0">
+
+</M>
+<M id="M14" sign="test.A.&lt;init&gt;()" file="test/A.java" line="0">
+
+</M>
+<M id="M15" sign="test.A.get()" file="test/A.java" line="0">
+
+</M>
+<M id="M16" sign="test.A.set(int)" file="test/A.java" line="0">
+
+</M>
+<M id="M17" sign="test.B.&lt;init&gt;()" file="test/B.java" line="0">
+
+</M>
+<M id="M18" sign="test.B.get()" file="test/B.java" line="0">
+
+</M>
+<M id="M19" sign="test.B.set(int)" file="test/B.java" line="0">
+
+</M>
+<M id="M20" sign="test.T.&lt;clinit&gt;()" file="test/T.java" line="0">
+
+</M>
+<M id="M21" sign="test.T.&lt;init&gt;(test.B,test.B)" file="test/T.java" line="0">
+
+</M>
+<M id="M22" sign="test.T.run()" file="test/T.java" line="0">
+
+</M>
+</Mlist>

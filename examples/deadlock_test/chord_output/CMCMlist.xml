@@ -1,0 +1,22 @@
+<CMCMlist>
+<CMCM C1id="C0" M1id="M5" C2id="C0" M2id="M8">
+<path>
+<elem Cid="C0" Iid="I4"/>
+</path>
+</CMCM>
+<CMCM C1id="C0" M1id="M1" C2id="C0" M2id="M5">
+<path>
+<elem Cid="C0" Iid="I19"/><elem Cid="C0" Iid="I13"/><elem Cid="C0" Iid="I3"/>
+</path>
+</CMCM>
+<CMCM C1id="C0" M1id="M1" C2id="C0" M2id="M7">
+<path>
+<elem Cid="C0" Iid="I19"/><elem Cid="C0" Iid="I11"/><elem Cid="C0" Iid="I2"/>
+</path>
+</CMCM>
+<CMCM C1id="C0" M1id="M7" C2id="C0" M2id="M6">
+<path>
+<elem Cid="C0" Iid="I5"/>
+</path>
+</CMCM>
+</CMCMlist>

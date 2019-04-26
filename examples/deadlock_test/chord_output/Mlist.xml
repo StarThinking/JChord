@@ -1,0 +1,77 @@
+<Mlist>
+<M id="M0" sign="T.main(java.lang.String[])" file="T.java" line="0">
+
+</M>
+<M id="M1" sign="java.lang.Thread.start()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M2" sign="T.&lt;clinit&gt;()" file="T.java" line="0">
+
+</M>
+<M id="M3" sign="T.access$000()" file="T.java" line="0">
+
+</M>
+<M id="M4" sign="T.access$100()" file="T.java" line="0">
+
+</M>
+<M id="M5" sign="T.bar()" file="T.java" line="0">
+
+</M>
+<M id="M6" sign="T.baz()" file="T.java" line="0">
+
+</M>
+<M id="M7" sign="T.foo()" file="T.java" line="0">
+
+</M>
+<M id="M8" sign="T.taz()" file="T.java" line="0">
+
+</M>
+<M id="M9" sign="T$1.&lt;init&gt;()" file="T.java" line="0">
+
+</M>
+<M id="M10" sign="T$1.run()" file="T.java" line="0">
+
+</M>
+<M id="M11" sign="T$2.&lt;init&gt;()" file="T.java" line="0">
+
+</M>
+<M id="M12" sign="T$2.run()" file="T.java" line="0">
+
+</M>
+<M id="M13" sign="java.lang.Object.&lt;clinit&gt;()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M14" sign="java.lang.Object.&lt;init&gt;()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M15" sign="java.lang.Object.registerNatives()" file="java/lang/Object.java" line="0">
+
+</M>
+<M id="M16" sign="java.lang.Runnable.run()" file="java/lang/Runnable.java" line="0">
+
+</M>
+<M id="M17" sign="java.lang.RuntimePermission.&lt;init&gt;(java.lang.String)" file="java/lang/RuntimePermission.java" line="0">
+
+</M>
+<M id="M18" sign="java.lang.Thread.&lt;clinit&gt;()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M19" sign="java.lang.Thread.&lt;init&gt;()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M20" sign="java.lang.Thread.registerNatives()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M21" sign="java.lang.Thread.run()" file="java/lang/Thread.java" line="0">
+
+</M>
+<M id="M22" sign="java.security.BasicPermission.&lt;init&gt;(java.lang.String)" file="java/security/BasicPermission.java" line="0">
+
+</M>
+<M id="M23" sign="java.security.BasicPermission.init(java.lang.String)" file="java/security/BasicPermission.java" line="0">
+
+</M>
+<M id="M24" sign="java.security.Permission.&lt;init&gt;(java.lang.String)" file="java/security/Permission.java" line="0">
+
+</M>
+</Mlist>

@@ -1,0 +1,37 @@
+<TCElist>
+<TCE id="TCE0" Tid="A1" Cid="C0" Eid="E6">
+<path>
+<elem Cid="C0" Iid="I18"/><elem Cid="C0" Iid="I12"/>
+</path>
+</TCE>
+<TCE id="TCE1" Tid="A2" Cid="C0" Eid="E7">
+<path>
+<elem Cid="C0" Iid="I5"/><elem Cid="C0" Iid="I23"/><elem Cid="C0" Iid="I13"/>
+</path>
+</TCE>
+<TCE id="TCE2" Tid="A1" Cid="C0" Eid="E7">
+<path>
+<lock Lid="L0" Mid="M0" Oid="O2"/><elem Cid="C0" Iid="I19"/><elem Cid="C0" Iid="I13"/>
+</path>
+</TCE>
+<TCE id="TCE3" Tid="A1" Cid="C0" Eid="E12">
+<path>
+<elem Cid="C0" Iid="I20"/>
+</path>
+</TCE>
+<TCE id="TCE4" Tid="A2" Cid="C0" Eid="E14">
+<path>
+<elem Cid="C0" Iid="I5"/>
+</path>
+</TCE>
+<TCE id="TCE5" Tid="A1" Cid="C0" Eid="E13">
+<path>
+<elem Cid="C0" Iid="I20"/>
+</path>
+</TCE>
+<TCE id="TCE6" Tid="A2" Cid="C0" Eid="E15">
+<path>
+<elem Cid="C0" Iid="I5"/>
+</path>
+</TCE>
+</TCElist>

@@ -1,0 +1,3 @@
+main:([Ljava/lang/String;)V@test.HelloWorld
+<clinit>:()V@java.lang.Object
+registerNatives:()V@java.lang.Object

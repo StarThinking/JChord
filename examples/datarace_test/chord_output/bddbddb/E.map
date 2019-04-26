@@ -1,0 +1,16 @@
+7!<clinit>:()V@java.lang.Thread
+19!<clinit>:()V@java.lang.Thread
+1!run:()V@java.lang.Thread
+8!run:()V@java.lang.Thread
+6!<init>:(Ljava/lang/String;)V@java.security.Permission
+6!<init>:()V@test.A
+1!get:()I@test.A
+2!set:(I)V@test.A
+14!<init>:()V@test.B
+1!get:()I@test.B
+1!set:(I)V@test.B
+7!<clinit>:()V@test.T
+6!<init>:(Ltest/B;Ltest/B;)V@test.T
+11!<init>:(Ltest/B;Ltest/B;)V@test.T
+1!run:()V@test.T
+6!run:()V@test.T

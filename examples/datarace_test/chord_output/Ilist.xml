@@ -1,0 +1,74 @@
+<Ilist>
+<I id="I0" file="java/lang/Object.java" line="41" Mid="M2" rdwr="Rd">
+
+</I>
+<I id="I1" file="java/lang/RuntimePermission.java" line="368" Mid="M6" rdwr="Rd">
+
+</I>
+<I id="I2" file="java/lang/Thread.java" line="145" Mid="M7" rdwr="Rd">
+
+</I>
+<I id="I3" file="java/lang/Thread.java" line="1623" Mid="M7" rdwr="Rd">
+
+</I>
+<I id="I4" file="java/lang/Thread.java" line="748" Mid="M10" rdwr="Rd">
+
+</I>
+<I id="I5" file="java/lang/Thread.java" line="0" Mid="M1" rdwr="Rd">
+
+</I>
+<I id="I6" file="java/security/BasicPermission.java" line="130" Mid="M11" rdwr="Rd">
+
+</I>
+<I id="I7" file="java/security/BasicPermission.java" line="131" Mid="M11" rdwr="Rd">
+
+</I>
+<I id="I8" file="java/security/Permission.java" line="78" Mid="M13" rdwr="Rd">
+
+</I>
+<I id="I9" file="test/A.java" line="13" Mid="M14" rdwr="Rd">
+
+</I>
+<I id="I10" file="test/B.java" line="13" Mid="M17" rdwr="Rd">
+
+</I>
+<I id="I11" file="test/B.java" line="14" Mid="M17" rdwr="Rd">
+
+</I>
+<I id="I12" file="test/B.java" line="19" Mid="M18" rdwr="Rd">
+
+</I>
+<I id="I13" file="test/B.java" line="23" Mid="M19" rdwr="Rd">
+
+</I>
+<I id="I14" file="test/T.java" line="14" Mid="M20" rdwr="Rd">
+
+</I>
+<I id="I15" file="test/T.java" line="31" Mid="M21" rdwr="Rd">
+
+</I>
+<I id="I16" file="test/T.java" line="17" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I17" file="test/T.java" line="18" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I18" file="test/T.java" line="24" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I19" file="test/T.java" line="26" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I20" file="test/T.java" line="20" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I21" file="test/T.java" line="21" Mid="M0" rdwr="Rd">
+
+</I>
+<I id="I22" file="test/T.java" line="40" Mid="M22" rdwr="Rd">
+
+</I>
+<I id="I23" file="test/T.java" line="42" Mid="M22" rdwr="Rd">
+
+</I>
+</Ilist>

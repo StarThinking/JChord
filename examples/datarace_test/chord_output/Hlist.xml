@@ -1,0 +1,26 @@
+<Hlist>
+<H id="H0" >
+
+</H>
+<H id="H1" file="test/T.java" line="17" Mid="M0" type="test.B">
+
+</H>
+<H id="H2" file="test/T.java" line="18" Mid="M0" type="test.B">
+
+</H>
+<H id="H3" file="test/T.java" line="20" Mid="M0" type="test.T">
+
+</H>
+<H id="H4" file="java/lang/Thread.java" line="1497" Mid="M7" type="java.lang.StackTraceElement[]">
+
+</H>
+<H id="H5" file="java/lang/Thread.java" line="1623" Mid="M7" type="java.lang.RuntimePermission">
+
+</H>
+<H id="H6" file="test/B.java" line="14" Mid="M17" type="test.A">
+
+</H>
+<H id="H7" file="test/T.java" line="14" Mid="M20" type="java.lang.Object">
+
+</H>
+</Hlist>

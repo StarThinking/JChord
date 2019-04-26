@@ -1,0 +1,11 @@
+7!<clinit>:()V@T
+17!<clinit>:()V@T
+0!bar:()V@T
+0!baz:()V@T
+0!foo:()V@T
+0!taz:()V@T
+7!<clinit>:()V@java.lang.Thread
+19!<clinit>:()V@java.lang.Thread
+1!run:()V@java.lang.Thread
+8!run:()V@java.lang.Thread
+6!<init>:(Ljava/lang/String;)V@java.security.Permission

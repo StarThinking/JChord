@@ -1,0 +1,50 @@
+<Elist>
+<E id="E0" file="java/lang/Thread.java" line="1497" Mid="M7" rdwr="Wr">
+
+</E>
+<E id="E1" file="java/lang/Thread.java" line="1623" Mid="M7" rdwr="Wr">
+
+</E>
+<E id="E2" file="java/lang/Thread.java" line="747" Mid="M10" rdwr="Rd">
+
+</E>
+<E id="E3" file="java/lang/Thread.java" line="748" Mid="M10" rdwr="Rd">
+
+</E>
+<E id="E4" file="java/security/Permission.java" line="79" Mid="M13" rdwr="Wr">
+
+</E>
+<E id="E5" file="test/A.java" line="14" Mid="M14" rdwr="Wr">
+
+</E>
+<E id="E6" file="test/A.java" line="17" Mid="M15" rdwr="Rd">
+
+</E>
+<E id="E7" file="test/A.java" line="20" Mid="M16" rdwr="Wr">
+
+</E>
+<E id="E8" file="test/B.java" line="15" Mid="M17" rdwr="Wr">
+
+</E>
+<E id="E9" file="test/B.java" line="18" Mid="M18" rdwr="Rd">
+
+</E>
+<E id="E10" file="test/B.java" line="22" Mid="M19" rdwr="Rd">
+
+</E>
+<E id="E11" file="test/T.java" line="14" Mid="M20" rdwr="Wr">
+
+</E>
+<E id="E12" file="test/T.java" line="32" Mid="M21" rdwr="Wr">
+
+</E>
+<E id="E13" file="test/T.java" line="33" Mid="M21" rdwr="Wr">
+
+</E>
+<E id="E14" file="test/T.java" line="36" Mid="M22" rdwr="Rd">
+
+</E>
+<E id="E15" file="test/T.java" line="37" Mid="M22" rdwr="Rd">
+
+</E>
+</Elist>
